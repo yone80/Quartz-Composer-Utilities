@@ -3,9 +3,12 @@ Utility Patchs for Quartz Composer.
 
 
 
-##graph
+##Graph
 自分で作ったマクロパッチ等の挙動確認用に
 
 
-##graph structure
+##Graph Structure
 graphのStructure版
+
+
+##Label
