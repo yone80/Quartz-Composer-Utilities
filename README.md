@@ -12,3 +12,7 @@ graphのStructure版
 
 
 ##Label
+
+
+##Functions
+デフォルトのパッチだと粒度が大きすぎるなぁと思うことがあったので
