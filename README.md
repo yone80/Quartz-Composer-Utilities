@@ -16,3 +16,6 @@ graphのStructure版
 
 ##Functions
 デフォルトのパッチだと粒度が大きすぎるなぁと思うことがあったので
+
+##Interpolations
+アニメーション用に補間いろいろ
