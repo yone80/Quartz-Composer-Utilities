@@ -10,6 +10,8 @@ Utility Patchs for Quartz Composer.
 ##Graph Structure
 graphのStructure版
 
+##Graph CI
+LinePatchを使うとサンプル数が増えたときに遅くなってたのでCoreImageで作り直した
 
 ##Label
 
